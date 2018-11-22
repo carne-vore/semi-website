@@ -1,7 +1,3 @@
-styleguide/style-voice.md
-
-https://github.com/carne-vore/semi-website/edit/patch-1/styleguide/style-voice.md
-
 ---
 layout: styleguide
 title: SeMI, our style; voice and tone in website general for contrib and user
